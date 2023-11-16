@@ -39,6 +39,7 @@ html{
 .row{
     float: left;
     width: calc(100%/3);
+    min-width: 340px;
 }
 
 img{
